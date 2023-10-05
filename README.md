@@ -1,15 +1,23 @@
-<h1 align="center">Hi! My name is Julia 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-<h3 align="center">I'm frontend developer </h3>
+Hi! My name is Julia ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+=====================================================================================
 
-============================================================================================================
-<h5> 🛠️ Skills: </h5>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105813644/261591934-be45eace-63b7-47a4-8bf9-c7325788e397.png" alt="html">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105813644/261592117-039c2cbc-20dc-4a75-bde4-a74e56f98126.png" alt="css">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105813644/261592201-be19e816-fd58-4930-ad3a-e022b931e1b5.png" alt="sass">
-<img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="javascript">
+![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) 
+#### I'm frontend-developer, i live in Ukraine, Kharkiv.
 
+### My skills: 
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=SASS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-333?style=for-the-badge&logo=jQuery&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![Photoshop](https://img.shields.io/badge/-Photoshop-483D8B?style=for-the-badge&logo=Photoshop)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
+=====================================================================================
 
-
-
+### My contacts:
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Juliaads22)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/errors2)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://gmail.com)
