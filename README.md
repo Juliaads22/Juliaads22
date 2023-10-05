@@ -21,5 +21,6 @@ Hi! My name is Julia ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
 
 ### My contacts:
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Juliaads22)
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/errors2)
-[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=FF0000)](https://gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/juldev2)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:juliaads22@gmail.com)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge) ](https://www.facebook.com/profile.php?id=100027104856250)
