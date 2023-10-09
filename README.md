@@ -4,7 +4,7 @@ Hi! My name is Julia ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
 ![](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
-## I'm frontend-developer, i live in Ukraine, Kharkiv.
+## I'm frontend-developer, i live in Ukraine, Kharkiv
 
 ### My skills: 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
